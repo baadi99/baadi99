@@ -1,8 +1,6 @@
 <h2 align="center">👋 Hey, I'm Mohcine! 👋</h2>
 
-<p align="center">
-  <img src="https://github.com/baadi99/baadi99.github.io/blob/main/Code-purple.svg" width="200px"/>
-</p>
+
 
 ## 🚀 About Me
 
