@@ -1,14 +1,14 @@
-<h2 align="center">👋 Hey, I'm Mohcine! 👋</h2>
-
-
+<div align="center">
+   <img src="https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/200w.webp?cid=dda24d503a631a9470d3fe56e3b6323f88b29d6086f76a6e&rid=200w.webp&ct=g" />
+</div>
 
 ## 🚀 About Me
 
-   I'm a software engineering student, passionate about web technologies and AI.
+   I'm Mohcine, a software engineering student, passionate about web technologies and AI.
 In addition to programming, I like learning new things, surfing the internet, 
 watching videos, and reading books (mostly books on programming and self development).
-  
-## 🛠 Skills
+
+## 🛠 Technologies & Tools I work with
 
 **Programming Languages:** <br/><br/>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)
@@ -23,6 +23,8 @@ watching videos, and reading books (mostly books on programming and self develop
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Design & Prototyping:** <br/><br/>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -36,12 +38,23 @@ watching videos, and reading books (mostly books on programming and self develop
 
 ## 📊 Stats
 
+<a href="https://github.com/baadi99">
 <img src="https://github-readme-stats.vercel.app/api?username=baadi99&show_icons=true&icon_color=fff&line_height=27&include_all_commits=true&count_private=true&layout=compact&bg_color=580BE4&title_color=fff&text_color=fff"/>
+</a>
 
+<a href="https://github.com/baadi99">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baadi99&langs_count=6&layout=compact&bg_color=580BE4&title_color=fff&text_color=fff"/>
-
+</a>
+   
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohcinebaadi/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BaadiMohsin)
+
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/baadi99)
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mohsin_baadi)
+
+<hr/>
+<h6 align="center">Created with ❤️ by Mohcine</h6>
