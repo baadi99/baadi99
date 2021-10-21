@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-   I'm Mohcine, a software engineering student, passionate about web technologies and AI.
+   I am Mohcine, a software engineering student, passionate about web technologies and AI.
 In addition to programming, I like learning new things, surfing the internet, 
 watching videos, and reading books (mostly books on programming and self development).
 
