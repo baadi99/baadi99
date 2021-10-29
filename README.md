@@ -45,7 +45,13 @@ watching videos, and reading books (mostly books on programming and self develop
 <a href="https://github.com/baadi99">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baadi99&langs_count=6&layout=compact&bg_color=580BE4&title_color=fff&text_color=fff"/>
 </a>
-   
+  
+## 🎴 Badges & Cards 
+
+<a href="https://app.daily.dev/baadi99">
+   <img src="https://api.daily.dev/devcards/158af8e981bc4df6afed320f1bbd18de.png?r=dml" width="200" alt="Mohcine BAADI's Dev Card"/>
+</a>
+  
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohcinebaadi/)
