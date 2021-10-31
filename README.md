@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/200w.webp?cid=dda24d503a631a9470d3fe56e3b6323f88b29d6086f76a6e&rid=200w.webp&ct=g" />
+   <img src="https://github.com/baadi99/baadi99/blob/main/Hello%20World.gif" />
 </div>
 
 ## 🚀 About Me
