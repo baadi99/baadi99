@@ -43,7 +43,7 @@ watching videos, and reading books (mostly books on programming and self develop
 </a>
 
 <a href="https://github.com/baadi99">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=baadi99&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&currStreakLabel=DD5151"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=baadi99&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&currStreakLabel=DD5151&fire=DD5151"/>
 </a> <br/>
 
 <a href="https://github.com/baadi99">
