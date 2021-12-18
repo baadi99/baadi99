@@ -64,7 +64,7 @@ watching videos, and reading books (mostly books on programming and self develop
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/baadi99)
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mohsin_baadi)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mohcine_baadi)
 
 <hr/>
 <h6 align="center">Created with ❤️ by Mohcine</h6>
