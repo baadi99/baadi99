@@ -32,17 +32,17 @@ watching videos, and reading books (mostly books on programming and self develop
 
 ## 📊 Stats
 
-<!-- <a href="https://github.com/baadi99">
+<a href="https://github.com/baadi99">
 <img src="https://github-readme-stats.vercel.app/api?username=baadi99&show_icons=true&icon_color=fff&line_height=27&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=61dafb&text_color=61dafb"/>
-</a> -->
+</a>
 
 <a href="https://github.com/baadi99">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=baadi99&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&currStreakLabel=DD5151&fire=DD5151"/>
 </a> <br/>
 
-<!-- <a href="https://github.com/baadi99">
+<a href="https://github.com/baadi99">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baadi99&langs_count=6&layout=compact&bg_color=0D1117&title_color=61dafb&text_color=61dafb"/>
-</a> -->
+</a>
   
 ## 🎴 Badges & Cards 
 
