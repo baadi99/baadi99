@@ -49,6 +49,11 @@ watching videos, and reading books (mostly books on programming and self develop
 <a href="https://app.daily.dev/baadi99">
    <img src="https://github.com/baadi99/baadi99/blob/main/devcard.svg" width="200" alt="Mohcine BAADI's Dev Card"/>
 </a>
+
+## 📄 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
   
 ## 🔗 Links
 
