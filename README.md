@@ -53,6 +53,8 @@ watching videos, and reading books (mostly books on programming and self develop
 ## 📄 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 8: Functional interfaces, Lambdas, and Method References](https://dev.to/mohcinebaadi/java-8-functional-interfaces-lambdas-and-method-references-33cl)
+- [Vscode is finally available in the browser](https://dev.to/mohcinebaadi/vscode-is-finally-available-in-the-browser-26kd)
 <!-- BLOG-POST-LIST:END -->
   
 ## 🔗 Links
