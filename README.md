@@ -12,13 +12,13 @@ watching videos, and reading books (mostly books on programming and self develop
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracledb-05122A?style=flat&logo=oracle&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=white)
